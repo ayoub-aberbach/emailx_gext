@@ -1,10 +1,10 @@
 {
     "manifest_version": 3,
     "name": "EmailX - Email Scraper",
-    "description": "This extension extract emails from the current webpage.",
+    "description": "This extension extracts emails from the current chrome webpage or tab.",
     "version": "1.0.0",
     "action": {
-        "default_popup": "popup.html",
+        "default_popup": "index.html",
         "default_icon": "icons/emailx.png"
     },
     "permissions": [
